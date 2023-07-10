@@ -1506,11 +1506,5 @@
       "value": "90",
       "type": "sizing"
     }
-  },
-  "StrangeNewColour": {
-    "blooop": {
-      "value": "#5746ec",
-      "type": "color"
-    }
   }
 }
