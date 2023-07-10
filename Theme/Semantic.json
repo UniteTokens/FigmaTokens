@@ -1,1 +1,11 @@
-{}
+{
+  "Modal": {
+    "mask": {
+      "value": {
+        "opacity": "{Opacity.90}",
+        "fill": "{Primary.Charcoal.90}"
+      },
+      "type": "composition"
+    }
+  }
+}
