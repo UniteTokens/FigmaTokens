@@ -3,7 +3,8 @@
     "id": "3cf18d788d50a494a2765c807937068b58d83038",
     "name": "Default",
     "selectedTokenSets": {
-      "Primitive": "enabled"
+      "Primitive": "enabled",
+      "Semantic": "enabled"
     },
     "$figmaStyleReferences": {
       "Primary.Yellow.10": "S:9a46f183e3e4f96444dde676b2a2161f579f906b,",
