@@ -40,10 +40,20 @@
     "Elevation": {
       "value": "{Elevation.Low}",
       "type": "boxShadow"
+    }
+  },
+  "Button": {
+    "Primary": {
+      "Background": {
+        "Default": {
+          "value": "{Primary.Yellow.100}",
+          "type": "color"
+        }
+      }
     },
-    "Font": {
-      "value": "{Body.Light.X-Small}",
-      "type": "typography"
+    "BorderRadius": {
+      "value": "{BorderRadius.X-Large}",
+      "type": "borderRadius"
     }
   }
 }
