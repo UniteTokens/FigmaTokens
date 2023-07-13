@@ -36,6 +36,10 @@
     "Padding": {
       "value": "{SpaceBetween.Small}",
       "type": "spacing"
+    },
+    "Elevation": {
+      "value": "{Elevation.Low}",
+      "type": "boxShadow"
     }
   }
 }
