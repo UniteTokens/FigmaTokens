@@ -1415,11 +1415,11 @@
   "Elevation": {
     "Low": {
       "value": {
-        "x": "0",
+        "x": "2",
         "y": "2",
-        "blur": "6",
+        "blur": "4",
         "spread": "0",
-        "color": "rgba(0,0,0,0.08)",
+        "color": "rgba(0,0,0,0.2)",
         "type": "dropShadow"
       },
       "type": "boxShadow"

@@ -32,6 +32,10 @@
     "BorderRadius": {
       "value": "{BorderRadius.XX-Small}",
       "type": "borderRadius"
+    },
+    "Padding": {
+      "value": "{SpaceBetween.Small}",
+      "type": "spacing"
     }
   }
 }
