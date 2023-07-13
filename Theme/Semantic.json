@@ -7,5 +7,31 @@
       },
       "type": "composition"
     }
+  },
+  "Tooltips": {
+    "Light": {
+      "Background": {
+        "value": "{Primary.Yellow.100}",
+        "type": "color"
+      },
+      "Foreground": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      }
+    },
+    "Dark": {
+      "Background": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      },
+      "Foreground": {
+        "value": "{Primary.White.100}",
+        "type": "color"
+      }
+    },
+    "BorderRadius": {
+      "value": "{BorderRadius.XX-Small}",
+      "type": "borderRadius"
+    }
   }
 }
