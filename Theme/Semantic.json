@@ -55,5 +55,19 @@
       "value": "{BorderRadius.X-Large}",
       "type": "borderRadius"
     }
+  },
+  "Pagination": {
+    "Selected": {
+      "Background": {
+        "value": "{Secondary.Teal.100}",
+        "type": "color"
+      }
+    },
+    "Unselected": {
+      "Background": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      }
+    }
   }
 }
