@@ -46,14 +46,80 @@
     "Primary": {
       "Background": {
         "Default": {
-          "value": "{Primary.Yellow.100}",
+          "value": "{Primary.Charcoal.100}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Primary.Charcoal.50}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Primary.Charcoal.75}",
           "type": "color"
         }
+      },
+      "Forground": {
+        "value": "{Primary.White.100}",
+        "type": "color"
       }
     },
     "BorderRadius": {
       "value": "{BorderRadius.X-Large}",
       "type": "borderRadius"
+    },
+    "Disabled": {
+      "Background": {
+        "value": "{Primary.Charcoal.10}",
+        "type": "color"
+      },
+      "Foreground": {
+        "value": "{Primary.Charcoal.25}",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "Background": {
+        "Default": {
+          "value": "{Primary.White.100}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Secondary.Steel.50}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Secondary.Steel.100}",
+          "type": "color"
+        }
+      },
+      "Forground": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      },
+      "Border": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      }
+    },
+    "Tertiary": {
+      "Background": {
+        "Default": {
+          "value": "{Primary.Yellow.100}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Primary.Yellow.25}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Primary.Yellow.75}",
+          "type": "color"
+        }
+      },
+      "Forground": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      }
     }
   },
   "Pagination": {
@@ -67,6 +133,124 @@
       "Background": {
         "value": "{Primary.Charcoal.100}",
         "type": "color"
+      }
+    }
+  },
+  "IconButton": {
+    "Primary": {
+      "Background": {
+        "Default": {
+          "value": "{Primary.Charcoal.100}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Primary.Charcoal.50}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Primary.Charcoal.75}",
+          "type": "color"
+        }
+      },
+      "Forground": {
+        "value": "{Primary.White.100}",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "Background": {
+        "Default": {
+          "value": "{Primary.White.100}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Secondary.Steel.50}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Secondary.Steel.100}",
+          "type": "color"
+        }
+      },
+      "Forground": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      },
+      "Border": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      }
+    },
+    "Tertiary": {
+      "Forground": {
+        "Default": {
+          "value": "{Primary.Charcoal.100}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Primary.Charcoal.50}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Primary.Charcoal.75}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Hyperlink": {
+    "Light": {
+      "Foreground": {
+        "Default": {
+          "value": "{Primary.Charcoal.100}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Primary.Charcoal.100}",
+          "type": "color"
+        },
+        "Pressed": {
+          "value": "{Primary.Charcoal.100}",
+          "type": "color"
+        }
+      }
+    },
+    "Footer": {
+      "QuickLinks": {
+        "Dark": {
+          "Foreground": {
+            "Default": {
+              "value": "{Primary.Yellow.100}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Primary.Yellow.50}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Primary.Yellow.50}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "CityLinks": {
+        "Dark": {
+          "Foreground": {
+            "Default": {
+              "value": "{Primary.White.100}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Primary.Charcoal.50}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Primary.Charcoal.50}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   }
