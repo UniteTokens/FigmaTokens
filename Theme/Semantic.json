@@ -253,5 +253,107 @@
         }
       }
     }
+  },
+  "Headerlinks": {
+    "Theme": {
+      "Yellow": {
+        "Foreground": {
+          "Default": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          }
+        },
+        "Background": {
+          "Default": {
+            "value": "{Primary.Yellow.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.White.100}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Secondary.Steel.50}",
+            "type": "color"
+          }
+        }
+      },
+      "Charcoal": {
+        "Foreground": {
+          "Default": {
+            "value": "{Primary.White.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.White.100}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Primary.White.100}",
+            "type": "color"
+          }
+        },
+        "Background": {
+          "Default": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.Charcoal.50}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Primary.Charcoal.75}",
+            "type": "color"
+          }
+        }
+      },
+      "White": {
+        "Foreground": {
+          "Default": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          }
+        },
+        "Background": {
+          "Default": {
+            "value": "{Primary.White.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Secondary.Steel.50}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Secondary.Steel.100}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "BorderRadius": {
+      "value": "{BorderRadius.Small}",
+      "type": "borderRadius"
+    },
+    "Height": {
+      "value": "32px",
+      "type": "sizing"
+    }
   }
 }
