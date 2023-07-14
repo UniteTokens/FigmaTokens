@@ -63,9 +63,11 @@
         "type": "color"
       }
     },
-    "BorderRadius": {
-      "value": "{BorderRadius.X-Large}",
-      "type": "borderRadius"
+    "Spacious": {
+      "BorderRadius": {
+        "value": "28",
+        "type": "borderRadius"
+      }
     },
     "Disabled": {
       "Background": {
@@ -119,6 +121,32 @@
       "Forground": {
         "value": "{Primary.Charcoal.100}",
         "type": "color"
+      }
+    },
+    "Comfortable": {
+      "BorderRadius": {
+        "value": "22",
+        "type": "borderRadius"
+      }
+    },
+    "Compact": {
+      "BorderRadius": {
+        "value": "18",
+        "type": "borderRadius"
+      }
+    },
+    "Font": {
+      "Compact": {
+        "value": "{Headings.H6}",
+        "type": "typography"
+      },
+      "Comfortable": {
+        "value": "{Headings.H5}",
+        "type": "typography"
+      },
+      "Spacious": {
+        "value": "{Headings.H5}",
+        "type": "typography"
       }
     }
   },
@@ -354,6 +382,42 @@
     "Height": {
       "value": "32px",
       "type": "sizing"
+    }
+  },
+  "Buttons": {
+    "Spacious": {
+      "Height": {
+        "value": "56px",
+        "type": "sizing"
+      },
+      "IconSize": {
+        "value": "24px",
+        "type": "sizing"
+      }
+    },
+    "Comfortable": {
+      "Height": {
+        "Height": {
+          "value": "44px",
+          "type": "sizing"
+        },
+        "IconSize": {
+          "value": "20px",
+          "type": "sizing"
+        }
+      }
+    },
+    "Compact": {
+      "Height": {
+        "Height": {
+          "value": "36px",
+          "type": "sizing"
+        },
+        "IconSize": {
+          "value": "16px",
+          "type": "sizing"
+        }
+      }
     }
   }
 }
