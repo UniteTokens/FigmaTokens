@@ -64,10 +64,8 @@
       }
     },
     "Spacious": {
-      "BorderRadius": {
-        "value": "28",
-        "type": "borderRadius"
-      }
+      "value": "{Headings.H5}",
+      "type": "typography"
     },
     "Disabled": {
       "Background": {
@@ -124,30 +122,12 @@
       }
     },
     "Comfortable": {
-      "BorderRadius": {
-        "value": "22",
-        "type": "borderRadius"
-      }
+      "value": "{Headings.H5}",
+      "type": "typography"
     },
     "Compact": {
-      "BorderRadius": {
-        "value": "18",
-        "type": "borderRadius"
-      }
-    },
-    "Font": {
-      "Compact": {
-        "value": "{Headings.H6}",
-        "type": "typography"
-      },
-      "Comfortable": {
-        "value": "{Headings.H5}",
-        "type": "typography"
-      },
-      "Spacious": {
-        "value": "{Headings.H5}",
-        "type": "typography"
-      }
+      "value": "{Headings.H6}",
+      "type": "typography"
     }
   },
   "Pagination": {
