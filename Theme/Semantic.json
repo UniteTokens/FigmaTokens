@@ -223,38 +223,34 @@
     },
     "Footer": {
       "QuickLinks": {
-        "Dark": {
-          "Foreground": {
-            "Default": {
-              "value": "{Primary.Yellow.100}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Primary.Yellow.50}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Primary.Yellow.50}",
-              "type": "color"
-            }
+        "Foreground": {
+          "Default": {
+            "value": "{Primary.Yellow.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.Yellow.50}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Primary.Yellow.50}",
+            "type": "color"
           }
         }
       },
       "CityLinks": {
-        "Dark": {
-          "Foreground": {
-            "Default": {
-              "value": "{Primary.White.100}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Primary.Charcoal.50}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Primary.Charcoal.50}",
-              "type": "color"
-            }
+        "Foreground": {
+          "Default": {
+            "value": "{Primary.White.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.Charcoal.50}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Primary.Charcoal.50}",
+            "type": "color"
           }
         }
       }
@@ -570,6 +566,92 @@
     "Pressed": {
       "value": "{Headings.H6}",
       "type": "typography"
+    }
+  },
+  "HyperLinks": {
+    "Small": {
+      "Default": {
+        "value": "{Headings.H6}",
+        "type": "typography"
+      },
+      "Hover": {
+        "value": {
+          "fontFamily": "{FontFamily.Headings.Lato}",
+          "fontWeight": "{FontWeight.Bold}",
+          "lineHeight": "{LineHeight.Headings}",
+          "fontSize": "{FontSize.Heading.H6}",
+          "textCase": "{Text.Case.None}",
+          "textDecoration": "{TextDecoration.Underline}"
+        },
+        "type": "typography"
+      },
+      "Pressed": {
+        "value": {
+          "fontFamily": "{FontFamily.Headings.Lato}",
+          "fontWeight": "{FontWeight.Bold}",
+          "lineHeight": "{LineHeight.Headings}",
+          "fontSize": "{FontSize.Heading.H6}",
+          "textCase": "{Text.Case.None}",
+          "textDecoration": "{TextDecoration.Underline}"
+        },
+        "type": "typography"
+      }
+    },
+    "Medium": {
+      "Default": {
+        "value": "{Headings.H5}",
+        "type": "typography"
+      },
+      "Hover": {
+        "value": {
+          "fontFamily": "{FontFamily.Headings.Lato}",
+          "fontWeight": "{FontWeight.Bold}",
+          "lineHeight": "{LineHeight.Headings}",
+          "fontSize": "{FontSize.Heading.H5}",
+          "textCase": "{Text.Case.None}",
+          "textDecoration": "{TextDecoration.Underline}"
+        },
+        "type": "typography"
+      },
+      "Pressed": {
+        "value": {
+          "fontFamily": "{FontFamily.Headings.Lato}",
+          "fontWeight": "{FontWeight.Bold}",
+          "lineHeight": "{LineHeight.Headings}",
+          "fontSize": "{FontSize.Heading.H5}",
+          "textCase": "{Text.Case.None}",
+          "textDecoration": "{TextDecoration.Underline}"
+        },
+        "type": "typography"
+      }
+    },
+    "Large": {
+      "Default": {
+        "value": "{Headings.H2}",
+        "type": "typography"
+      },
+      "Hover": {
+        "value": {
+          "fontFamily": "{FontFamily.Headings.Lato}",
+          "fontWeight": "{FontWeight.Bold}",
+          "lineHeight": "{LineHeight.Headings}",
+          "fontSize": "{FontSize.Heading.H2}",
+          "textCase": "{Text.Case.None}",
+          "textDecoration": "{TextDecoration.Underline}"
+        },
+        "type": "typography"
+      },
+      "Pressed": {
+        "value": {
+          "fontFamily": "{FontFamily.Headings.Lato}",
+          "fontWeight": "{FontWeight.Bold}",
+          "lineHeight": "{LineHeight.Headings}",
+          "fontSize": "{FontSize.Heading.H2}",
+          "textCase": "{Text.Case.None}",
+          "textDecoration": "{TextDecoration.Underline}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
