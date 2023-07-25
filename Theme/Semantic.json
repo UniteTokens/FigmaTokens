@@ -207,20 +207,18 @@
     }
   },
   "Hyperlink": {
-    "Light": {
-      "Foreground": {
-        "Default": {
-          "value": "{Primary.Charcoal.100}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Primary.Charcoal.100}",
-          "type": "color"
-        },
-        "Pressed": {
-          "value": "{Primary.Charcoal.100}",
-          "type": "color"
-        }
+    "Foreground": {
+      "Default": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      },
+      "Pressed": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
       }
     },
     "Footer": {
