@@ -416,8 +416,162 @@
             "value": "{Primary.Yellow.80}",
             "type": "color"
           }
+        },
+        "Foreground": {
+          "Default": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          }
+        }
+      },
+      "SubLevel": {
+        "Bold": {
+          "Foreground": {
+            "Default": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            }
+          }
+        },
+        "Regular": {
+          "Foreground": {
+            "Default": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "TopLevel": {
+        "Default": {
+          "value": "{Headings.H3}",
+          "type": "typography"
+        },
+        "Hover": {
+          "value": {
+            "fontFamily": "{FontFamily.Headings.Lato}",
+            "fontWeight": "{FontWeight.Bold}",
+            "lineHeight": "{LineHeight.Headings}",
+            "fontSize": "{FontSize.Heading.H3}",
+            "textCase": "{Text.Case.None}",
+            "textDecoration": "{TextDecoration.Underline}"
+          },
+          "type": "typography"
+        },
+        "Pressed": {
+          "value": {
+            "fontFamily": "{FontFamily.Headings.Lato}",
+            "fontWeight": "{FontWeight.Bold}",
+            "lineHeight": "{LineHeight.Headings}",
+            "fontSize": "{FontSize.Heading.H3}",
+            "textCase": "{Text.Case.None}",
+            "textDecoration": "{TextDecoration.Underline}"
+          },
+          "type": "typography"
         }
       }
+    },
+    "SubLevel": {
+      "Bold": {
+        "Default": {
+          "value": "{Headings.H5}",
+          "type": "typography"
+        },
+        "Hover": {
+          "value": {
+            "fontFamily": "{FontFamily.Headings.Lato}",
+            "fontWeight": "{FontWeight.Bold}",
+            "lineHeight": "{LineHeight.Headings}",
+            "fontSize": "{FontSize.Heading.H5}",
+            "textCase": "{Text.Case.None}",
+            "textDecoration": "{TextDecoration.Underline}"
+          },
+          "type": "typography"
+        },
+        "Pressed": {
+          "value": {
+            "fontFamily": "{FontFamily.Headings.Lato}",
+            "fontWeight": "{FontWeight.Bold}",
+            "lineHeight": "{LineHeight.Headings}",
+            "fontSize": "{FontSize.Heading.H5}",
+            "textCase": "{Text.Case.None}",
+            "textDecoration": "{TextDecoration.Underline}"
+          },
+          "type": "typography"
+        }
+      },
+      "Regular": {
+        "Default": {
+          "value": {
+            "fontFamily": "{FontFamily.Headings.Lato}",
+            "fontWeight": "{FontWeight.Regular}",
+            "lineHeight": "{LineHeight.Headings}",
+            "fontSize": "{FontSize.Heading.H5}",
+            "textCase": "{Text.Case.None}"
+          },
+          "type": "typography"
+        },
+        "Hover": {
+          "value": {
+            "fontFamily": "{FontFamily.Headings.Lato}",
+            "fontWeight": "{FontWeight.Regular}",
+            "lineHeight": "{LineHeight.Headings}",
+            "fontSize": "{FontSize.Heading.H5}",
+            "textCase": "{Text.Case.None}",
+            "textDecoration": "{TextDecoration.Underline}"
+          },
+          "type": "typography"
+        },
+        "Pressed": {
+          "value": {
+            "fontFamily": "{FontFamily.Headings.Lato}",
+            "fontWeight": "{FontWeight.Regular}",
+            "lineHeight": "{LineHeight.Headings}",
+            "fontSize": "{FontSize.Heading.H5}",
+            "textCase": "{Text.Case.None}",
+            "textDecoration": "{TextDecoration.Underline}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
+  "HeaderLinks": {
+    "Default": {
+      "value": "{Headings.H6}",
+      "type": "typography"
+    },
+    "Hover": {
+      "value": "{Headings.H6}",
+      "type": "typography"
+    },
+    "Pressed": {
+      "value": "{Headings.H6}",
+      "type": "typography"
     }
   }
 }
