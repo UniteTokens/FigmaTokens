@@ -653,5 +653,15 @@
         "type": "typography"
       }
     }
+  },
+  "ModalTest": {
+    "Background": {
+      "value": "{Primary.Yellow.100}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "value": "{BorderRadius.X-Large}",
+      "type": "borderRadius"
+    }
   }
 }
