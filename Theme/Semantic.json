@@ -65,7 +65,19 @@
     },
     "Spacious": {
       "value": "{Headings.H5}",
-      "type": "typography"
+      "type": "typography",
+      "Height": {
+        "value": "56px",
+        "type": "sizing"
+      },
+      "IconSize": {
+        "value": "24px",
+        "type": "sizing"
+      },
+      "BorderRadius": {
+        "value": "{BorderRadius.Large}",
+        "type": "borderRadius"
+      }
     },
     "Disabled": {
       "Background": {
@@ -123,11 +135,35 @@
     },
     "Comfortable": {
       "value": "{Headings.H5}",
-      "type": "typography"
+      "type": "typography",
+      "Height": {
+        "value": "44px",
+        "type": "sizing"
+      },
+      "IconSize": {
+        "value": "20px",
+        "type": "sizing"
+      },
+      "BorderRadius": {
+        "value": "{BorderRadius.Medium}",
+        "type": "borderRadius"
+      }
     },
     "Compact": {
       "value": "{Headings.H6}",
-      "type": "typography"
+      "type": "typography",
+      "Height": {
+        "value": "36px",
+        "type": "sizing"
+      },
+      "IconSize": {
+        "value": "16px",
+        "type": "sizing"
+      },
+      "BorderRadius": {
+        "value": "{BorderRadius.Medium}",
+        "type": "borderRadius"
+      }
     }
   },
   "Pagination": {
@@ -356,42 +392,6 @@
     "Height": {
       "value": "32px",
       "type": "sizing"
-    }
-  },
-  "Buttons": {
-    "Spacious": {
-      "Height": {
-        "value": "56px",
-        "type": "sizing"
-      },
-      "IconSize": {
-        "value": "24px",
-        "type": "sizing"
-      }
-    },
-    "Comfortable": {
-      "Height": {
-        "Height": {
-          "value": "44px",
-          "type": "sizing"
-        },
-        "IconSize": {
-          "value": "20px",
-          "type": "sizing"
-        }
-      }
-    },
-    "Compact": {
-      "Height": {
-        "Height": {
-          "value": "36px",
-          "type": "sizing"
-        },
-        "IconSize": {
-          "value": "16px",
-          "type": "sizing"
-        }
-      }
     }
   },
   "MainNavigation": {
