@@ -396,71 +396,71 @@
   },
   "MainNavigation": {
     "Mobile": {
-      "Toplevel": {
-        "Background": {
-          "Default": {
-            "value": "{Primary.Yellow.100}",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Primary.Yellow.60}",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Primary.Yellow.80}",
-            "type": "color"
-          }
-        },
-        "Foreground": {
-          "Default": {
-            "value": "{Primary.Charcoal.100}",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Primary.Charcoal.100}",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Primary.Charcoal.100}",
-            "type": "color"
-          }
-        }
-      },
-      "SubLevel": {
-        "Bold": {
-          "Foreground": {
-            "Default": {
-              "value": "{Primary.Charcoal.100}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Primary.Charcoal.100}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Primary.Charcoal.100}",
-              "type": "color"
-            }
-          }
-        },
-        "Regular": {
-          "Foreground": {
-            "Default": {
-              "value": "{Primary.Charcoal.100}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Primary.Charcoal.100}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Primary.Charcoal.100}",
-              "type": "color"
-            }
-          }
-        }
-      },
       "Web": {
+        "Toplevel": {
+          "Background": {
+            "Default": {
+              "value": "{Primary.Yellow.100}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Primary.Yellow.60}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Primary.Yellow.80}",
+              "type": "color"
+            }
+          },
+          "Foreground": {
+            "Default": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Primary.Charcoal.100}",
+              "type": "color"
+            }
+          }
+        },
+        "SubLevel": {
+          "Bold": {
+            "Foreground": {
+              "Default": {
+                "value": "{Primary.Charcoal.100}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{Primary.Charcoal.100}",
+                "type": "color"
+              },
+              "Pressed": {
+                "value": "{Primary.Charcoal.100}",
+                "type": "color"
+              }
+            }
+          },
+          "Regular": {
+            "Foreground": {
+              "Default": {
+                "value": "{Primary.Charcoal.100}",
+                "type": "color"
+              },
+              "Hover": {
+                "value": "{Primary.Charcoal.100}",
+                "type": "color"
+              },
+              "Pressed": {
+                "value": "{Primary.Charcoal.100}",
+                "type": "color"
+              }
+            }
+          }
+        },
         "TopLevel": {
           "Default": {
             "value": "{Headings.H3}",
