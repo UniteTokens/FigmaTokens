@@ -653,5 +653,17 @@
         "type": "typography"
       }
     }
+  },
+  "Spinner": {
+    "Primary": {
+      "Foreground": {
+        "value": "{Primary.Charcoal.100}",
+        "type": "color"
+      },
+      "Background": {
+        "value": "{Primary.Charcoal.20}",
+        "type": "color"
+      }
+    }
   }
 }
