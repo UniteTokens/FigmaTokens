@@ -489,6 +489,50 @@
             "type": "typography"
           }
         }
+      },
+      "App": {
+        "BottomBar": {
+          "Background": {
+            "value": "{Primary.Charcoal.100}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Primary.Charcoal.90}",
+            "type": "color"
+          }
+        },
+        "Selected": {
+          "Indicator": {
+            "value": "{Primary.Yellow.100}",
+            "type": "color"
+          },
+          "Foreground": {
+            "value": "{Primary.White.100}",
+            "type": "color"
+          },
+          "Icon": {
+            "Foreground": {
+              "value": "{Primary.Yellow.100}",
+              "type": "color"
+            }
+          }
+        },
+        "Unselected": {
+          "Foreground": {
+            "value": "{Primary.Charcoal.50}",
+            "type": "color"
+          },
+          "Icon": {
+            "Foreground": {
+              "value": "{Primary.Charcoal.50}",
+              "type": "color"
+            }
+          }
+        },
+        "BorderRadius": {
+          "value": "{BorderRadius.Medium}",
+          "type": "borderRadius"
+        }
       }
     },
     "SubLevel": {
