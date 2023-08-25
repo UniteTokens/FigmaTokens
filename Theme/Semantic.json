@@ -40,6 +40,10 @@
     "Elevation": {
       "value": "{Elevation.Low}",
       "type": "boxShadow"
+    },
+    "Text": {
+      "value": "{Body.Light.X-Small}",
+      "type": "typography"
     }
   },
   "Button": {
