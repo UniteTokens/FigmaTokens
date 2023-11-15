@@ -29,8 +29,7 @@
       },
       "25": {
         "value": "#FFF6BF",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "30": {
         "value": "{Primary.Yellow.100}",
@@ -60,8 +59,7 @@
       },
       "50": {
         "value": "#FFED7F",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "60": {
         "value": "{Primary.Yellow.100}",
@@ -91,8 +89,7 @@
       },
       "75": {
         "value": "#FFE540",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "80": {
         "value": "{Primary.Yellow.100}",
@@ -122,8 +119,7 @@
       },
       "100": {
         "value": "#FFDC00",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       }
     },
     "Charcoal": {
@@ -155,8 +151,7 @@
       },
       "25": {
         "value": "#CBCBCB",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "30": {
         "value": "{Primary.Charcoal.100}",
@@ -186,8 +181,7 @@
       },
       "50": {
         "value": "#989898",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "60": {
         "value": "{Primary.Charcoal.100}",
@@ -217,8 +211,7 @@
       },
       "75": {
         "value": "#666666",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "80": {
         "value": "{Primary.Charcoal.100}",
@@ -288,8 +281,7 @@
       },
       "25": {
         "value": "#D7EEED",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "30": {
         "value": "{Secondary.Teal.100}",
@@ -319,8 +311,7 @@
       },
       "50": {
         "value": "#B0DCDB",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "60": {
         "value": "{Secondary.Teal.100}",
@@ -350,8 +341,7 @@
       },
       "75": {
         "value": "#89CBC9",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "80": {
         "value": "{Secondary.Teal.100}",

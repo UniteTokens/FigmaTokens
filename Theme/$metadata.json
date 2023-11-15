@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "Primitive",
-    "Semantic"
+    "Primitive"
   ]
 }
